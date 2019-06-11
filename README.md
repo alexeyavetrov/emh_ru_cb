@@ -1,2 +1,2 @@
 # emh_ru_cb
-Analysis of EMH applicability and predcitive models for MICEX corprorate bond indices
+Analysis of EMH applicability and predictive models for MICEX corprorate bond indices
